@@ -1,7 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <!-- <link rel="stylesheet" media="screen and (max-width: 768px)" href="mystyle.css" /> -->
 </template>
 
 <script>
