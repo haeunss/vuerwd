@@ -37,7 +37,7 @@
 
 <br/>
 
-## 📢 [뷰 배포 링크](https://vuestagram.vercel.app/)
+// ## 📢 [뷰 배포 링크](https://vuestagram.vercel.app/)
 
 <br/>
 <br/>
